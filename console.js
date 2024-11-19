@@ -3,3 +3,7 @@ console.log("Hello World")
 
 // testing comment 2
 console.log("Hello Kashif")
+
+function main() {
+return null;
+}
