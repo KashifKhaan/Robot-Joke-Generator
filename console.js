@@ -7,3 +7,6 @@ console.log("Hello Kashif")
 function main() {
 return null;
 }
+
+// testing comment 3
+console.log("Hello World")
